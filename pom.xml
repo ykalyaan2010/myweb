@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://35.75.6.81:8081/repository/sai-release/</url>
+		    <url>http://13.127.103.252:8081/repository/sample-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://35.75.6.81:8081/repository/sai-release/</url>
+		    <url>http://13.127.103.252:8081/repository/sample-release/</url>
 		</repository>
   	</distributionManagement>
 	
